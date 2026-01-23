@@ -1,0 +1,14 @@
+# netlify.toml
+[build]
+  # Vite default build output
+  publish = "dist"
+  # Command to build the site
+  command = "npm run build"
+
+[dev]
+  # Prevent automatic framework detection
+  framework = "#custom"
+
+# Optional: Node version
+[build.environment]
+  NODE_VERSION = "20"
