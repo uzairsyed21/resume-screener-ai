@@ -1,0 +1,7 @@
+{
+  "name": "ScreenAI: Talent Intelligence Agent",
+  "description": "An AI-powered resume screening platform using Gemini to rank candidates against job descriptions with explainable insights and visual match scoring.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
