@@ -1,5 +1,5 @@
 {
-  "name": "screenai:-talent-intelligence-agent",
+  "name": "screenai-talent-intelligence-agent",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -9,12 +9,10 @@
     "preview": "vite preview"
   },
   "dependencies": {
-  "react": "18.2.0",
-  "react-dom": "18.2.0",
-  "recharts": "2.12.7"
-}
-
-
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "recharts": "2.12.7"
+  },
   "devDependencies": {
     "@types/node": "^22.14.0",
     "@vitejs/plugin-react": "^5.0.0",
@@ -22,3 +20,4 @@
     "vite": "^6.2.0"
   }
 }
+
