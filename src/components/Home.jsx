@@ -6,7 +6,7 @@ function App() {
 }
 
 export default App;
-
+ 
     <div style={{ textAlign: "center" }}>
       <img
         width={800}
