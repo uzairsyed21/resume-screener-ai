@@ -1,7 +1,12 @@
 import React from "react";
+import Home from "./components/Home";
 
-export default function Home() {
-  return (
+function App() {
+  return <Home />;
+}
+
+export default App;
+
     <div style={{ textAlign: "center" }}>
       <img
         width={800}
